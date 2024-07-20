@@ -1,6 +1,6 @@
 # JPMC interview challenge
 
-This app uses version 13.8.0 of Node.js.
+JPMC interview challenge developed in React.js. This app uses version 13.8.0 of Node.js.
 
 **1.** Install dependencies:
 
