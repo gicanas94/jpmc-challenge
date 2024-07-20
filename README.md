@@ -1,4 +1,4 @@
-# JPMC Interview Exercise
+# JPMC interview challenge
 
 This app uses version 13.8.0 of Node.js.
 
